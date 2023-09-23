@@ -1,0 +1,15 @@
+{
+  "name": "routing-requests",
+  "version": "1.0.0",
+  "description": "compelete nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "shiva orsu",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
